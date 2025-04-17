@@ -1,0 +1,192 @@
+[2025-04-09 15:32:01] Visite de la page d'accueil
+[2025-04-09 15:33:12] Connexion réussie de l'utilisateur admin
+[2025-04-09 15:35:45] Erreur 404 sur /page-inconnue
+[2025-04-09 09:24:57] Tentative de connexion par un utilisateur 
+[2025-04-09 09:34:50] Déconnexion de l'utilisateur aadmin25
+[2025-04-09 09:34:54] Tentative de connexion par un utilisateur 
+[2025-04-09 09:35:01] Tentative de connexion par un utilisateur 
+[2025-04-09 09:35:01] Connexion par l'utilisateur aadmin25
+[2025-04-09 09:35:02] Déconnexion de l'utilisateur aadmin25
+[2025-04-09 09:35:09] Tentative de connexion par un utilisateur 
+[2025-04-09 09:35:09] Connexion par l'utilisateur aadmin25
+[2025-04-09 09:46:05] Utilisateur créé : ssef25 par 
+[2025-04-09 09:48:02] Déconnexion de l'utilisateur aadmin25
+[2025-04-09 09:50:25] Tentative de connexion par un utilisateur 
+[2025-04-09 09:50:25] Connexion par l'utilisateur aadmin25
+[2025-04-09 09:50:44] Déconnexion de l'utilisateur aadmin25
+[2025-04-09 09:50:53] Tentative de connexion par un utilisateur 
+[2025-04-09 09:50:53] Connexion par l'utilisateur bbrasseur25
+[2025-04-09 09:51:46] Déconnexion de l'utilisateur bbrasseur25
+[2025-04-09 09:53:07] Tentative de connexion par un utilisateur 
+[2025-04-09 09:53:07] Connexion par l'utilisateur ddirection25
+[2025-04-09 09:54:24] Déconnexion de l'utilisateur ddirection25
+[2025-04-09 09:54:33] Tentative de connexion par un utilisateur 
+[2025-04-09 09:54:33] Connexion par l'utilisateur cclient25
+[2025-04-09 09:55:53] Déconnexion de l'utilisateur cclient25
+[2025-04-09 09:56:02] Tentative de connexion par un utilisateur 
+[2025-04-09 09:56:02] Connexion par l'utilisateur aadmin25
+[2025-04-09 09:56:35] Déconnexion de l'utilisateur aadmin25
+[2025-04-09 09:56:52] Tentative de connexion par un utilisateur 
+[2025-04-09 09:56:52] Connexion par l'utilisateur ccaissier25
+[2025-04-09 09:59:53] Déconnexion de l'utilisateur ccaissier25
+[2025-04-09 10:00:08] Tentative de connexion par un utilisateur 
+[2025-04-09 10:00:08] Connexion par l'utilisateur aadmin25
+[2025-04-09 10:00:49] Utilisateur créé : _nji25 par 
+[2025-04-09 10:00:56] Déconnexion de l'utilisateur aadmin25
+[2025-04-09 10:01:03] Tentative de connexion par un utilisateur 
+[2025-04-09 10:01:03] Connexion par l'utilisateur cclient25
+[2025-04-09 10:03:13] Panier validé par :  cclient25
+[2025-04-09 10:03:23] Déconnexion de l'utilisateur cclient25
+[2025-04-09 10:03:31] Tentative de connexion par un utilisateur 
+[2025-04-09 10:03:31] Connexion par l'utilisateur aadmin25
+[2025-04-09 10:51:35] Déconnexion de l'utilisateur aadmin25
+[2025-04-09 10:51:43] Tentative de connexion par un utilisateur 
+[2025-04-09 10:51:43] Connexion par l'utilisateur cclient25
+[2025-04-09 10:51:54] Déconnexion de l'utilisateur cclient25
+[2025-04-09 10:52:03] Tentative de connexion par un utilisateur 
+[2025-04-09 10:52:04] Connexion par l'utilisateur aadmin25
+[2025-04-09 10:55:35] Déconnexion de l'utilisateur ccaissier25
+[2025-04-09 10:55:43] Tentative de connexion par un utilisateur 
+[2025-04-09 10:55:43] Connexion par l'utilisateur ccaissier25
+[2025-04-09 10:59:20] Déconnexion de l'utilisateur aadmin25
+[2025-04-09 10:59:32] Tentative de connexion par un utilisateur 
+[2025-04-09 10:59:32] Connexion par l'utilisateur ccaissier25
+[2025-04-09 11:16:47] Déconnexion de l'utilisateur ccaissier25
+[2025-04-09 11:16:52] Tentative de connexion par un utilisateur 
+[2025-04-09 11:16:52] Connexion par l'utilisateur aadmin25
+[2025-04-09 11:17:08] Utilisateur créé : mkuras25 par 
+[2025-04-09 14:36:03] Tentative de connexion par un utilisateur 
+[2025-04-09 14:36:03] Connexion par l'utilisateur aadmin25
+[2025-04-09 14:36:08] Déconnexion de l'utilisateur aadmin25
+[2025-04-09 14:36:15] Tentative de connexion par un utilisateur 
+[2025-04-09 14:36:15] Connexion par l'utilisateur ccaissier25
+[2025-04-10 03:09:08] Déconnexion de l'utilisateur aadmin25
+[2025-04-10 03:09:16] Tentative de connexion par un utilisateur 
+[2025-04-10 03:09:16] Connexion par l'utilisateur ccaissier25
+[2025-04-10 03:20:49] Client créé : kmaxime25 par ccaissier25
+[2025-04-10 03:43:07] Client créé : km25 par ccaissier25
+[2025-04-10 03:44:17] Vente n°9 enregistrée par ccaissier25 pour le client #43
+[2025-04-10 03:45:41] Déconnexion de l'utilisateur ccaissier25
+[2025-04-10 03:45:48] Tentative de connexion par un utilisateur 
+[2025-04-10 03:45:48] Connexion par l'utilisateur cclient25
+[2025-04-10 03:46:52] Panier validé par :  cclient25
+[2025-04-10 03:47:03] Déconnexion de l'utilisateur cclient25
+[2025-04-10 03:47:12] Tentative de connexion par un utilisateur 
+[2025-04-10 03:47:12] Connexion par l'utilisateur ccaissier25
+[2025-04-10 03:47:33] Réservation n°10 validée par ccaissier25
+[2025-04-10 03:47:58] Réservation n°8 validée par ccaissier25
+[2025-04-10 03:48:53] Déconnexion de l'utilisateur ccaissier25
+[2025-04-10 03:49:14] Tentative de connexion par un utilisateur 
+[2025-04-10 03:49:14] Connexion par l'utilisateur ddirection25
+[2025-04-10 03:59:21] Utilisateur créé : kezzzzzzzzzzz25 par 
+[2025-04-10 04:00:17] Déconnexion de l'utilisateur ddirection25
+[2025-04-10 04:00:28] Tentative de connexion par un utilisateur 
+[2025-04-10 04:00:28] Connexion par l'utilisateur aadmin25
+[2025-04-10 04:01:21] Déconnexion de l'utilisateur ccaissier25
+[2025-04-10 04:01:29] Tentative de connexion par un utilisateur 
+[2025-04-10 04:01:29] Connexion par l'utilisateur aadmin25
+[2025-04-10 04:02:29] Déconnexion de l'utilisateur aadmin25
+[2025-04-10 04:02:35] Tentative de connexion par un utilisateur 
+[2025-04-10 04:02:44] Déconnexion de l'utilisateur aadmin25
+[2025-04-10 04:02:45] Tentative de connexion par un utilisateur 
+[2025-04-10 04:06:45] Tentative de connexion par un utilisateur 
+[2025-04-10 04:06:53] Tentative de connexion par un utilisateur 
+[2025-04-10 04:06:53] Connexion par l'utilisateur aadmin25
+[2025-04-10 12:44:05] Tentative de connexion par un utilisateur 
+[2025-04-10 12:44:05] Connexion par l'utilisateur ddirection25
+[2025-04-10 13:04:36] Déconnexion de l'utilisateur ddirection25
+[2025-04-10 13:04:50] Tentative de connexion par un utilisateur 
+[2025-04-10 13:04:50] Connexion par l'utilisateur bbrasseur25
+[2025-04-10 13:08:08] Déconnexion de l'utilisateur bbrasseur25
+[2025-04-10 13:08:25] Tentative de connexion par un utilisateur 
+[2025-04-10 13:08:25] Connexion par l'utilisateur ccaissier25
+[2025-04-11 07:55:28] Déconnexion de l'utilisateur ccaissier25
+[2025-04-11 07:56:12] Tentative de connexion par un utilisateur 
+[2025-04-11 07:56:12] Connexion par l'utilisateur aadmin25
+[2025-04-11 07:56:19] Déconnexion d'un utilisateur non identifié
+[2025-04-11 07:56:38] Tentative de connexion par un utilisateur 
+[2025-04-11 07:56:38] Connexion par l'utilisateur ddirection25
+[2025-04-11 08:03:20] Déconnexion de l'utilisateur aadmin25
+[2025-04-11 08:03:28] Tentative de connexion par un utilisateur 
+[2025-04-11 08:03:28] Connexion par l'utilisateur bbrasseur25
+[2025-04-11 08:08:58] Déconnexion de l'utilisateur bbrasseur25
+[2025-04-11 08:09:04] Tentative de connexion par un utilisateur 
+[2025-04-11 08:09:05] Connexion par l'utilisateur aadmin25
+[2025-04-11 08:09:08] Déconnexion de l'utilisateur aadmin25
+[2025-04-11 08:09:20] Tentative de connexion par un utilisateur 
+[2025-04-11 08:09:20] Connexion par l'utilisateur aadmin25
+[2025-04-11 08:09:29] Déconnexion de l'utilisateur aadmin25
+[2025-04-11 08:09:37] Tentative de connexion par un utilisateur 
+[2025-04-11 08:09:37] Connexion par l'utilisateur bbrasseur25
+[2025-04-11 08:09:45] Déconnexion de l'utilisateur bbrasseur25
+[2025-04-11 08:10:47] Tentative de connexion par un utilisateur 
+[2025-04-11 08:10:47] Connexion par l'utilisateur cclient25
+[2025-04-11 08:12:37] Vente n°11 enregistrée par ddirection25 pour le client #40
+[2025-04-11 08:13:19] Vente n°12 enregistrée par ddirection25 pour le client #40
+[2025-04-11 08:19:40] Client créé : pmathias25 par ddirection25
+[2025-04-11 08:33:31] Déconnexion de l'utilisateur cclient25
+[2025-04-11 08:33:39] Tentative de connexion par un utilisateur 
+[2025-04-11 08:33:39] Connexion par l'utilisateur bbrasseur25
+[2025-04-11 08:34:14] Déconnexion de l'utilisateur ddirection25
+[2025-04-11 08:34:22] Tentative de connexion par un utilisateur 
+[2025-04-11 08:34:22] Connexion par l'utilisateur cclient25
+[2025-04-11 09:13:48] Déconnexion de l'utilisateur bbrasseur25
+[2025-04-11 09:13:57] Tentative de connexion par un utilisateur 
+[2025-04-11 09:13:57] Connexion par l'utilisateur cclient25
+[2025-04-11 10:07:30] Déconnexion de l'utilisateur cclient25
+[2025-04-11 10:07:38] Tentative de connexion par un utilisateur 
+[2025-04-11 10:07:38] Connexion par l'utilisateur ccaissier25
+[2025-04-11 10:10:09] Déconnexion de l'utilisateur cclient25
+[2025-04-11 10:11:17] Tentative de connexion par un utilisateur 
+[2025-04-11 10:11:17] Connexion par l'utilisateur ccaissier25
+[2025-04-11 10:16:27] Vente n°13 enregistrée par ccaissier25 pour le client #40
+[2025-04-11 10:18:25] Client créé : alecomte25 par ccaissier25
+[2025-04-11 10:21:32] Réservation n°7 validée par ccaissier25
+[2025-04-11 10:21:58] Déconnexion de l'utilisateur ccaissier25
+[2025-04-11 10:22:10] Tentative de connexion par un utilisateur 
+[2025-04-11 10:22:10] Connexion par l'utilisateur ddirection25
+[2025-04-12 19:11:59] Déconnexion de l'utilisateur aadmin25
+[2025-04-12 19:12:37] Déconnexion de l'utilisateur aadmin25
+[2025-04-13 06:55:13] Déconnexion d'un utilisateur non identifié
+[2025-04-13 06:56:10] Déconnexion de l'utilisateur cclient25
+[2025-04-13 06:57:14] Déconnexion de l'utilisateur aadmin25
+[2025-04-15 08:29:01] Déconnexion de l'utilisateur aadmin25
+[2025-04-15 09:17:26] Déconnexion de l'utilisateur bbrasseur25
+[2025-04-15 09:18:07] Déconnexion de l'utilisateur aadmin25
+[2025-04-15 11:42:37] Déconnexion de l'utilisateur aadmin25
+[2025-04-15 11:42:47] Déconnexion de l'utilisateur cclient25
+[2025-04-15 11:42:56] Déconnexion de l'utilisateur ddirection25
+[2025-04-15 11:43:07] Déconnexion de l'utilisateur ccaissier25
+[2025-04-15 11:57:19] Déconnexion de l'utilisateur bbrasseur25
+[2025-04-15 12:17:44] Déconnexion de l'utilisateur ddirection25
+[2025-04-15 12:20:27] Déconnexion d'un utilisateur non identifié
+[2025-04-15 12:24:46] Déconnexion de l'utilisateur aadmin25
+[2025-04-15 12:31:18] Déconnexion de l'utilisateur bbrasseur25
+[2025-04-15 12:33:49] Déconnexion de l'utilisateur bbrasseur25
+[2025-04-15 12:36:43] Déconnexion de l'utilisateur ddirection25
+[2025-04-15 12:44:52] Déconnexion de l'utilisateur ccaissier25
+[2025-04-15 12:47:46] Déconnexion de l'utilisateur cclient25
+[2025-04-15 15:47:41] Déconnexion de l'utilisateur bbrasseur25
+[2025-04-15 16:01:32] Déconnexion de l'utilisateur ddirection25
+[2025-04-15 16:04:18] Vente n°15 enregistrée par ccaissier25 pour le client #40
+[2025-04-15 16:06:10] Réservation n°6 validée par ccaissier25
+[2025-04-16 02:57:57] Utilisateur créé : ttest25 par 
+[2025-04-16 02:58:19] Déconnexion de l'utilisateur aadmin25
+[2025-04-16 03:00:14] Déconnexion de l'utilisateur bbrasseur25
+[2025-04-16 03:01:03] Déconnexion de l'utilisateur ddirection25
+[2025-04-16 03:01:51] Panier validé par :  cclient25
+[2025-04-16 03:02:01] Déconnexion de l'utilisateur cclient25
+[2025-04-16 03:02:33] Vente n°18 enregistrée par ccaissier25 pour le client #45
+[2025-04-16 03:02:45] Client créé : ttest25 par ccaissier25
+[2025-04-16 03:02:53] Réservation n°17 validée par ccaissier25
+[2025-04-16 05:51:35] Déconnexion de l'utilisateur ccaissier25
+[2025-04-16 05:53:13] Déconnexion de l'utilisateur aadmin25
+[2025-04-16 05:55:15] Déconnexion de l'utilisateur ccaissier25
+[2025-04-16 05:56:00] Déconnexion de l'utilisateur ccaissier25
+[2025-04-16 05:56:38] Déconnexion de l'utilisateur ccaissier25
+[2025-04-16 09:31:16] Utilisateur créé : ttest25 par 
+[2025-04-16 09:32:31] Déconnexion de l'utilisateur aadmin25
+[2025-04-16 09:35:13] Déconnexion de l'utilisateur bbrasseur25
+[2025-04-16 09:36:36] Panier validé par :  cclient25
+[2025-04-16 09:36:57] Déconnexion de l'utilisateur cclient25
+[2025-04-16 09:38:39] Déconnexion de l'utilisateur ccaissier25
